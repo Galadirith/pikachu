@@ -1,1 +1,1 @@
-print('You were right')
+print('Mononoke changed me')
